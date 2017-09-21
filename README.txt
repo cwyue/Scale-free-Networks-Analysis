@@ -46,9 +46,3 @@ gcc main.c graph.c network_analysis.c read_graph.c graph.h network_analysis.h -s
 4.sh run.sh
 
 5.exit
-
-
-
-Work Distrubution
-Chenwei Yue: Part2, literature review for graph diameter
-Yichao Yao: Part1, literature review for scale-free network
